@@ -1,2 +1,2 @@
-# Nueral-Networks
-Nueral Networks from Scratch
+# Neural-Networks
+Neural Networks from Scratch
